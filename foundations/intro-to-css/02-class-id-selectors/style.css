@@ -3,7 +3,17 @@ p{
     font-family: "Verdana", "DeJaVu Sans", sans-serif;
 }
 
-div{
-    font-size: 36px;
+#number-2 {
     color: #0000ff;
+    font-size: 36px;
+}
+
+#number-3 {
+    font-size: 24px;
+}
+
+#number-4 {
+    font-size: 24px;
+    background-color: #90ee90;
+    font-weight: bold;
 }
